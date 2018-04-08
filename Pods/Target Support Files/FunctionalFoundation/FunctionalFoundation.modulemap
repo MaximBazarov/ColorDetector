@@ -1,0 +1,6 @@
+framework module FunctionalFoundation {
+  umbrella header "FunctionalFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}

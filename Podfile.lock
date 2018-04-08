@@ -1,0 +1,15 @@
+PODS:
+  - ColorThiefSwift (0.3.0)
+  - FunctionalFoundation (0.1.2)
+
+DEPENDENCIES:
+  - ColorThiefSwift
+  - FunctionalFoundation
+
+SPEC CHECKSUMS:
+  ColorThiefSwift: bca6dee535214015763310b7dd316290840c87e3
+  FunctionalFoundation: 7522e936f2c1fa3064ca69129a1e4a31c4b637f9
+
+PODFILE CHECKSUM: d5121042b48b3c296c4b07aba5308ed503d49d99
+
+COCOAPODS: 1.4.0
